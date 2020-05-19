@@ -1,1 +1,1 @@
-# robotFriends-redux
+# A Progressive web application demo from a udemy course.
