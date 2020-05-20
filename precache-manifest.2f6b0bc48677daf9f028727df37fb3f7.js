@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "13274b6a0fa311f0af90d4a7ef4af50c",
+    "revision": "159c511817789b9a32b9d14de7a27f80",
     "url": "/PWA-robotFriends-redux/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PWA-robotFriends-redux/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "e60e1cde09120635a830",
+    "revision": "8e95c5cc338a347d38ff",
     "url": "/PWA-robotFriends-redux/static/css/main.dc34914f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PWA-robotFriends-redux/static/js/2.ba6adf4a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e60e1cde09120635a830",
-    "url": "/PWA-robotFriends-redux/static/js/main.523ddc4c.chunk.js"
+    "revision": "8e95c5cc338a347d38ff",
+    "url": "/PWA-robotFriends-redux/static/js/main.8794cd6c.chunk.js"
   },
   {
     "revision": "02cec8f7605da9f3e3f4",
