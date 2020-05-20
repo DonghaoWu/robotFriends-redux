@@ -2,6 +2,7 @@
   "name": "robot-friends-redux",
   "version": "0.1.0",
   "private": true,
+  "homepage":"https://donghaowu.github.io/PWA-robotFriends-redux/",
   "dependencies": {
     "gh-pages": "^2.2.0",
     "react": "^16.13.1",
