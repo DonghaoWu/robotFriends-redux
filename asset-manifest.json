@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/PWA-robotFriends-redux/static/css/main.dc34914f.chunk.css",
-    "main.js": "/PWA-robotFriends-redux/static/js/main.92f352af.chunk.js",
-    "main.js.map": "/PWA-robotFriends-redux/static/js/main.92f352af.chunk.js.map",
-    "runtime-main.js": "/PWA-robotFriends-redux/static/js/runtime-main.13194e63.js",
-    "runtime-main.js.map": "/PWA-robotFriends-redux/static/js/runtime-main.13194e63.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/PWA-robotFriends-redux/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.ba6adf4a.chunk.js": "/PWA-robotFriends-redux/static/js/2.ba6adf4a.chunk.js",
-    "static/js/2.ba6adf4a.chunk.js.map": "/PWA-robotFriends-redux/static/js/2.ba6adf4a.chunk.js.map",
-    "index.html": "/PWA-robotFriends-redux/index.html",
-    "precache-manifest.ed0a1e1ed75fab4d694329940c403963.js": "/PWA-robotFriends-redux/precache-manifest.ed0a1e1ed75fab4d694329940c403963.js",
-    "service-worker.js": "/PWA-robotFriends-redux/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/PWA-robotFriends-redux/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.dc34914f.chunk.css.map": "/PWA-robotFriends-redux/static/css/main.dc34914f.chunk.css.map",
-    "static/js/2.ba6adf4a.chunk.js.LICENSE.txt": "/PWA-robotFriends-redux/static/js/2.ba6adf4a.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/PWA-robotFriends-redux/static/media/SEGA.12a3db8b.woff"
+    "main.css": "/DonghaoWu/PWA-robotFriends-redux-prod/static/css/main.7619d2ef.chunk.css",
+    "main.js": "/DonghaoWu/PWA-robotFriends-redux-prod/static/js/main.ce98d20e.chunk.js",
+    "main.js.map": "/DonghaoWu/PWA-robotFriends-redux-prod/static/js/main.ce98d20e.chunk.js.map",
+    "runtime-main.js": "/DonghaoWu/PWA-robotFriends-redux-prod/static/js/runtime-main.f9c298a8.js",
+    "runtime-main.js.map": "/DonghaoWu/PWA-robotFriends-redux-prod/static/js/runtime-main.f9c298a8.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/DonghaoWu/PWA-robotFriends-redux-prod/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.ba6adf4a.chunk.js": "/DonghaoWu/PWA-robotFriends-redux-prod/static/js/2.ba6adf4a.chunk.js",
+    "static/js/2.ba6adf4a.chunk.js.map": "/DonghaoWu/PWA-robotFriends-redux-prod/static/js/2.ba6adf4a.chunk.js.map",
+    "index.html": "/DonghaoWu/PWA-robotFriends-redux-prod/index.html",
+    "precache-manifest.c3ffd4cd8007bbecde53f80f86c24616.js": "/DonghaoWu/PWA-robotFriends-redux-prod/precache-manifest.c3ffd4cd8007bbecde53f80f86c24616.js",
+    "service-worker.js": "/DonghaoWu/PWA-robotFriends-redux-prod/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/DonghaoWu/PWA-robotFriends-redux-prod/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.7619d2ef.chunk.css.map": "/DonghaoWu/PWA-robotFriends-redux-prod/static/css/main.7619d2ef.chunk.css.map",
+    "static/js/2.ba6adf4a.chunk.js.LICENSE.txt": "/DonghaoWu/PWA-robotFriends-redux-prod/static/js/2.ba6adf4a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/DonghaoWu/PWA-robotFriends-redux-prod/static/media/SEGA.12a3db8b.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.13194e63.js",
+    "static/js/runtime-main.f9c298a8.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.ba6adf4a.chunk.js",
-    "static/css/main.dc34914f.chunk.css",
-    "static/js/main.92f352af.chunk.js"
+    "static/css/main.7619d2ef.chunk.css",
+    "static/js/main.ce98d20e.chunk.js"
   ]
 }
