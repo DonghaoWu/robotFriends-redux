@@ -3,3 +3,5 @@
 <p align="center">
 <img src="./assets/p12-16.png" width=90%>
 </p>
+
+- [Deploy a React app on github.](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f)
